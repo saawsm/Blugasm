@@ -2275,7 +2275,7 @@
     (property "Value" "SolderJumper_3_Bridged123" (id 1) (at 218.44 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (id 2) (at 218.44 144.78 0)
+    (property "Footprint" "SaawLib:SolderJumper-3_P1.3mm_Bridged123_Pad1.0x1.5mm_NumberLabels" (id 2) (at 218.44 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 218.44 144.78 0)
