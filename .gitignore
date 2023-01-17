@@ -1,0 +1,4 @@
+*.ignore*
+
+gerbers/**/*.*
+!gerbers/**/*.zip
