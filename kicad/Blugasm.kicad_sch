@@ -6,7 +6,7 @@
 
   (title_block
     (title "Blugasm")
-    (date "2023-01-17")
+    (date "2023-01-24")
     (rev "1")
     (company "saawsm")
     (comment 2 "Includes optional auxiliary motor driver (like the original nogasm)")

@@ -20,7 +20,7 @@
 "J7","1","PROG","Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)","","",""
 "Q1","1","DMG3415U","P-MOSFET transistor, gate/source/drain","DMG3415UQ-7","621-DMG3415UQ-7","C459537"
 "Q2","1","PHB32N06LT,118","N-MOSFET transistor, gate/drain/source","PHB32N06LT,118","771-PHB32N06LT118","C552626"
-"Q3, Q4","2","SS8050-G","0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92","SS8050-G","750-SS8050-G","C164886"
+"Q3, Q4","2","SS8050-G","NPN transistor, base/emitter/collector","SS8050-G","750-SS8050-G","C164886"
 "R1, R3, R6, R7","4","100k","Resistor","RC0603FR-07100KL","603-RC0603FR-07100KL","C14675"
 "R2, R5, R20, R22","4","4.7k","Resistor","RC0603FR-074K7L","603-RC0603FR-074K7L","C99782"
 "R4","1","750","Resistor","RC0603FR-07750RL","603-RC0603FR-07750RL","C114635"
