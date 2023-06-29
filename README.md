@@ -7,6 +7,3 @@ The original design and concept comes from the [nogasm](https://github.com/nogas
 ## Acknowledgements
 The design of this board was inspired/based off the [nogasm board](https://github.com/nogasm/nogasm).
 
-## License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, available at
-[http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
